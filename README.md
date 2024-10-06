@@ -22,7 +22,8 @@ This Data Analysis project aims to give insight into my Data Analysis LITA, star
 
  ### Data Analysis Tools
  - Microsoft Excel for Dta Cleaning, Analysis and Visualization.
- - SQL (Structured Query Language) for quering of Data GitHub for Portfolio Building
+ - SQL (Structured Query Language) for quering of Data
+ - GitHub for Portfolio Building
  - Power BI
  
  
